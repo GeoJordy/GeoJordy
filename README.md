@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeoJordy (Jordy Bernard)
 - I am a Senior Staff Scientist with Geosyntec Consultants in Anchorage
 - I am interested in Bayesian, Spatial, and Temporal Statistics
-- I will periodically post R code that may be of interest to others on this Github page
+- I will periodically post code that may be of interest to others on this Github page
 - You can reach me at jordy.bernard@geosyntec.com
